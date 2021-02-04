@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",FANA
+https://wowhe1.vixtream.net/vcdnedge1/_definst_/smil:fbctv.smil/chunklist_w53950576_b1128000_tkd3RDdXN0b21JcD0xNzI5NzE1NjEwNiZ3dGVuZHRpbWU9MTYxMjQ3OTg4NSZ3dGhhc2g9VTJwSHVyaGpyWEhnTnRYS3FKSWxXX3YtSEY2SGFodlJobGgxY0FTWmI0ND0=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EBC SD
+https://wowhe1.vixtream.net/vcdnedge1/_definst_/smil:etvz.smil/chunklist_w1909171974_b596000_tkd3RDdXN0b21JcD0xNzI5NzE1NjEwNiZ3dGVuZHRpbWU9MTYxMjQ4MDEwNSZ3dGhhc2g9NXNxQ2wwYmlyVkpMMWtDZ3RWem1NWThHS1pxejBjQjZTSDB5bi1zdTlRYz0=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Amahar TV
+https://wowhe1.vixtream.net/vcdnedge1/_definst_/smil:amma.smil/chunklist_w2016310078_b596000_tkd3RDdXN0b21JcD0xNzI5NzE1NjEwNiZ3dGVuZHRpbWU9MTYxMjQzNjMwNyZ3dGhhc2g9a294SHVGV0p5OGpRSVlVazNMclBQQ3p5VWxOaFUwTjdmVktlamNsVmltaz0=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nahoo
+https://wowhe1.vixtream.net/vcdnedge1/_definst_/smil:nahoo.smil/chunklist_w2082376073_b464000_tkd3RDdXN0b21JcD0xNzI5NzE1NjEwNiZ3dGVuZHRpbWU9MTYxMjQzNTkwMCZ3dGhhc2g9MnRhM2kzb1hFOS1HRG1TN0J3Wnp4eVJNa3Z3dWxoa2k5ZjZJZXd4QWpNND0=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Addis TV
+https://wowhe1.vixtream.net/vcdnedge1/_definst_/smil:adis.smil/chunklist_w146856342_b464000_tkd3RDdXN0b21JcD0xNzI5NzE1NjEwNiZ3dGVuZHRpbWU9MTYxMjQzNTk5NyZ3dGhhc2g9OW5PdWRTRG1OZmtrTHZJUndIUnM4QVp1dWZ4RWVVRnA0YWpNd3ZZaWxTcz0=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SNNPR
+https://wowhe1.vixtream.net/vcdnedge1/_definst_/smil:south.smil/chunklist_w1208379860_b464000_tkd3RDdXN0b21JcD0xNzI5NzE1NjEwNiZ3dGVuZHRpbWU9MTYxMjQzNjE3NyZ3dGhhc2g9ZVF2WDB5ang4U29kM09nU1FMRk5fdkxUNFBHdi1Fakd5SUQ3TGZJejFGUT0=.m3u8
